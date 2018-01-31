@@ -87,5 +87,5 @@ stories = get_stories(section)
 # print(stories) # should print a big pile of json
 
 headlines = get_headlines(stories)
-# for h in headlines:
-#     print(h)
+ for h in headlines:
+     print(h)
